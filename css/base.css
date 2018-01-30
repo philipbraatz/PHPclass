@@ -1,0 +1,26 @@
+header{
+    width:100%;
+    float: left;
+    font-family: Georgia;
+    text-align: center;
+    background-color: aqua;
+}
+nav{
+    width: 20%;
+    float: left;
+    background-color: burlywood;
+}
+main{
+    width: 60%;
+    float: left;
+    font-size: large;
+    background-color: darkkhaki;
+}
+footer{
+    width:100%;
+    float: left;
+    text-align: center;
+    font-size: small;
+    font-weight:bold;
+    background-color: gainsboro;
+}
