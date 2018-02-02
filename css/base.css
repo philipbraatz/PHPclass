@@ -1,3 +1,4 @@
+/*layout*/
 header{
     width:100%;
     float: left;
@@ -23,4 +24,46 @@ footer{
     font-size: small;
     font-weight:bold;
     background-color: gainsboro;
+}
+
+/*main*/
+main p{
+    margin-top:30px;
+    text-indent: 25px;
+}
+main img{
+    width: 200px;
+    float: right;
+    display: block;
+    margin: 0 auto;
+}
+
+/*Menu*/
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:#f1f1f1;
+}
+li a{
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+
+}
+li a:hover{
+    background-color: #555;
+    color: white;
+}
+ul{
+    border: 1px solid #555555
+}
+li {
+    text-align: center;
+    border-bottom:1px solid #555555;
+}
+li last-child{
+    border-bottom:none;
 }

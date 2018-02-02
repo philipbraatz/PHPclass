@@ -18,6 +18,6 @@
         <img src="images/Philip_Braatz.jpg" alt="Philip Braatz"/>
         <p>Info goes here</p>
     </main>
-    <footer>&copy; 20xx PhilipBraatz.com</footer>
+    <footer>&copy; 2018 PhilipBraatz.com</footer>
 </body>
 </html>
